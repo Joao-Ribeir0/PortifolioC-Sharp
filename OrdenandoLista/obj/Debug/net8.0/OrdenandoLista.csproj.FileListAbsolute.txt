@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\OrdenandoLista\bin\Debug\net8.0\OrdenandoLista.exe
+C:\Users\User\source\repos\OrdenandoLista\bin\Debug\net8.0\OrdenandoLista.deps.json
+C:\Users\User\source\repos\OrdenandoLista\bin\Debug\net8.0\OrdenandoLista.runtimeconfig.json
+C:\Users\User\source\repos\OrdenandoLista\bin\Debug\net8.0\OrdenandoLista.dll
+C:\Users\User\source\repos\OrdenandoLista\bin\Debug\net8.0\OrdenandoLista.pdb
+C:\Users\User\source\repos\OrdenandoLista\obj\Debug\net8.0\OrdenandoLista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\OrdenandoLista\obj\Debug\net8.0\OrdenandoLista.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\OrdenandoLista\obj\Debug\net8.0\OrdenandoLista.AssemblyInfo.cs
+C:\Users\User\source\repos\OrdenandoLista\obj\Debug\net8.0\OrdenandoLista.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OrdenandoLista\obj\Debug\net8.0\OrdenandoLista.sourcelink.json
+C:\Users\User\source\repos\OrdenandoLista\obj\Debug\net8.0\OrdenandoLista.dll
+C:\Users\User\source\repos\OrdenandoLista\obj\Debug\net8.0\refint\OrdenandoLista.dll
+C:\Users\User\source\repos\OrdenandoLista\obj\Debug\net8.0\OrdenandoLista.pdb
+C:\Users\User\source\repos\OrdenandoLista\obj\Debug\net8.0\OrdenandoLista.genruntimeconfig.cache
+C:\Users\User\source\repos\OrdenandoLista\obj\Debug\net8.0\ref\OrdenandoLista.dll
