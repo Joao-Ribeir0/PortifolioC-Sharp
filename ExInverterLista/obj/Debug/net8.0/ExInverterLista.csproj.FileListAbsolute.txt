@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\ExInverterLista\bin\Debug\net8.0\ExInverterLista.exe
+C:\Users\User\source\repos\ExInverterLista\bin\Debug\net8.0\ExInverterLista.deps.json
+C:\Users\User\source\repos\ExInverterLista\bin\Debug\net8.0\ExInverterLista.runtimeconfig.json
+C:\Users\User\source\repos\ExInverterLista\bin\Debug\net8.0\ExInverterLista.dll
+C:\Users\User\source\repos\ExInverterLista\bin\Debug\net8.0\ExInverterLista.pdb
+C:\Users\User\source\repos\ExInverterLista\obj\Debug\net8.0\ExInverterLista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ExInverterLista\obj\Debug\net8.0\ExInverterLista.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ExInverterLista\obj\Debug\net8.0\ExInverterLista.AssemblyInfo.cs
+C:\Users\User\source\repos\ExInverterLista\obj\Debug\net8.0\ExInverterLista.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ExInverterLista\obj\Debug\net8.0\ExInverterLista.sourcelink.json
+C:\Users\User\source\repos\ExInverterLista\obj\Debug\net8.0\ExInverterLista.dll
+C:\Users\User\source\repos\ExInverterLista\obj\Debug\net8.0\refint\ExInverterLista.dll
+C:\Users\User\source\repos\ExInverterLista\obj\Debug\net8.0\ExInverterLista.pdb
+C:\Users\User\source\repos\ExInverterLista\obj\Debug\net8.0\ExInverterLista.genruntimeconfig.cache
+C:\Users\User\source\repos\ExInverterLista\obj\Debug\net8.0\ref\ExInverterLista.dll

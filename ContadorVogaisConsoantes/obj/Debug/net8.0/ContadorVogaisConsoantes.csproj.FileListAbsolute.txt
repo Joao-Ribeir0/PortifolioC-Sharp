@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\ContadorVogaisConsoantes\bin\Debug\net8.0\ContadorVogaisConsoantes.exe
+C:\Users\User\source\repos\ContadorVogaisConsoantes\bin\Debug\net8.0\ContadorVogaisConsoantes.deps.json
+C:\Users\User\source\repos\ContadorVogaisConsoantes\bin\Debug\net8.0\ContadorVogaisConsoantes.runtimeconfig.json
+C:\Users\User\source\repos\ContadorVogaisConsoantes\bin\Debug\net8.0\ContadorVogaisConsoantes.dll
+C:\Users\User\source\repos\ContadorVogaisConsoantes\bin\Debug\net8.0\ContadorVogaisConsoantes.pdb
+C:\Users\User\source\repos\ContadorVogaisConsoantes\obj\Debug\net8.0\ContadorVogaisConsoantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ContadorVogaisConsoantes\obj\Debug\net8.0\ContadorVogaisConsoantes.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ContadorVogaisConsoantes\obj\Debug\net8.0\ContadorVogaisConsoantes.AssemblyInfo.cs
+C:\Users\User\source\repos\ContadorVogaisConsoantes\obj\Debug\net8.0\ContadorVogaisConsoantes.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ContadorVogaisConsoantes\obj\Debug\net8.0\ContadorVogaisConsoantes.sourcelink.json
+C:\Users\User\source\repos\ContadorVogaisConsoantes\obj\Debug\net8.0\ContadorVogaisConsoantes.dll
+C:\Users\User\source\repos\ContadorVogaisConsoantes\obj\Debug\net8.0\refint\ContadorVogaisConsoantes.dll
+C:\Users\User\source\repos\ContadorVogaisConsoantes\obj\Debug\net8.0\ContadorVogaisConsoantes.pdb
+C:\Users\User\source\repos\ContadorVogaisConsoantes\obj\Debug\net8.0\ContadorVogaisConsoantes.genruntimeconfig.cache
+C:\Users\User\source\repos\ContadorVogaisConsoantes\obj\Debug\net8.0\ref\ContadorVogaisConsoantes.dll
