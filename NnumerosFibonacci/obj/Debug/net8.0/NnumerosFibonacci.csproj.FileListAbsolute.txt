@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\NnumerosFibonacci\bin\Debug\net8.0\NnumerosFibonacci.exe
+C:\Users\User\source\repos\NnumerosFibonacci\bin\Debug\net8.0\NnumerosFibonacci.deps.json
+C:\Users\User\source\repos\NnumerosFibonacci\bin\Debug\net8.0\NnumerosFibonacci.runtimeconfig.json
+C:\Users\User\source\repos\NnumerosFibonacci\bin\Debug\net8.0\NnumerosFibonacci.dll
+C:\Users\User\source\repos\NnumerosFibonacci\bin\Debug\net8.0\NnumerosFibonacci.pdb
+C:\Users\User\source\repos\NnumerosFibonacci\obj\Debug\net8.0\NnumerosFibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\NnumerosFibonacci\obj\Debug\net8.0\NnumerosFibonacci.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\NnumerosFibonacci\obj\Debug\net8.0\NnumerosFibonacci.AssemblyInfo.cs
+C:\Users\User\source\repos\NnumerosFibonacci\obj\Debug\net8.0\NnumerosFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\NnumerosFibonacci\obj\Debug\net8.0\NnumerosFibonacci.sourcelink.json
+C:\Users\User\source\repos\NnumerosFibonacci\obj\Debug\net8.0\NnumerosFibonacci.dll
+C:\Users\User\source\repos\NnumerosFibonacci\obj\Debug\net8.0\refint\NnumerosFibonacci.dll
+C:\Users\User\source\repos\NnumerosFibonacci\obj\Debug\net8.0\NnumerosFibonacci.pdb
+C:\Users\User\source\repos\NnumerosFibonacci\obj\Debug\net8.0\NnumerosFibonacci.genruntimeconfig.cache
+C:\Users\User\source\repos\NnumerosFibonacci\obj\Debug\net8.0\ref\NnumerosFibonacci.dll
