@@ -1,0 +1,16 @@
+[
+  {
+    "Nome": "joao",
+    "Idade": 22,
+    "Senha": "123",
+    "Cpf": "460.048.728-14",
+    "Cargo": "gerente"
+  },
+  {
+    "Nome": "erika",
+    "Idade": 23,
+    "Senha": "321",
+    "Cpf": "102.916.748-60",
+    "Cargo": "vendedor"
+  }
+]
